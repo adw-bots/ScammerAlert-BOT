@@ -12,7 +12,7 @@ I made this Discord bot for a person, but they no longer paid for the bot, so I 
   ```
   cd findro
   npm install
-  node index.js```
+  node index.js
 
 ## FOR MORE DETAILS
 - CONTACT ON DISCORD "neverkeep".
